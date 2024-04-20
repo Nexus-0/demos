@@ -1,7 +1,11 @@
-html,body{
+html,
+body {
   margin: 0;
 }
-html,body,canvas,#app{
+html,
+body,
+canvas,
+#app {
   width: 100vw;
   height: 100vh;
 }
